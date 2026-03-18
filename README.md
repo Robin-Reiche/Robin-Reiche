@@ -34,7 +34,7 @@ Also working with: NumPy, matplotlib, seaborn, SQLAlchemy, APIs, JSON, Data Lake
 
 ## :star: Featured Projects
 
-### :jigsaw: CSV Grid Viewer for VS Code
+### :jigsaw: CSV Grid Editor for VS Code
 
 A Visual Studio Code extension for viewing and editing CSV and TSV files in a sortable, filterable grid directly inside the editor.
 It focuses on usability features such as inline editing, undo/redo, column resizing, and theme integration.
