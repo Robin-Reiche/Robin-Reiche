@@ -1,101 +1,111 @@
-# Hi, I'm Robin 👋
+# Hi, I'm Robin
 
-## About Me
+I am transitioning from QA and Test Engineering into Data Science and Analytics.
+Currently I am studying Data Science & AI at [WBS Coding School](https://www.wbscodingschool.com/) and building a portfolio that shows both analysis skills and engineering thinking.
 
-🎯 **Aspiring Machine Learning Engineer** focused on Predictive Analytics
-🔄 **Career Changer:** 10+ years QA & Test Engineering → Data Science
-📚 **Currently:** Data Science & AI @ [WBS Coding School](https://www.wbscodingschool.com/)
-📍 Leipzig, Germany
-
----
-
-## What Drives Me
-
-I love turning data into predictions. My goal: build, train, and deploy ML models – not present them, but **build** them.
-
-**Domains I'm passionate about:**
-- ⚽ Sports Analytics (Football)
-- 📈 Finance & Trading
-- 🌍 Energy & Climate Data
-- 🚀 Space & Astronomy
+My background in QA still shapes how I work: I like structured problem solving, clear documentation, reliable workflows, and tools that are useful in practice.
+I am especially interested in predictive analytics, machine learning, and data products that help people work with data more easily.
 
 ---
 
-## Tech Stack
+## :compass: Background
 
-### Data Science & ML
-![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white)
-![Pandas](https://img.shields.io/badge/-Pandas-150458?style=flat&logo=pandas&logoColor=white)
-![NumPy](https://img.shields.io/badge/-NumPy-013243?style=flat&logo=numpy&logoColor=white)
-![Scikit-learn](https://img.shields.io/badge/-Scikit--learn-F7931E?style=flat&logo=scikit-learn&logoColor=white)
-![SQL](https://img.shields.io/badge/-SQL-4479A1?style=flat&logo=mysql&logoColor=white)
-![Tableau](https://img.shields.io/badge/-Tableau-E97627?style=flat&logo=tableau&logoColor=white)
-
-### Engineering & DevOps
-![Git](https://img.shields.io/badge/-Git-F05032?style=flat&logo=git&logoColor=white)
-![Azure](https://img.shields.io/badge/-Azure-0078D4?style=flat&logo=microsoftazure&logoColor=white)
-![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat&logo=docker&logoColor=white)
-![Cypress](https://img.shields.io/badge/-Cypress-17202C?style=flat&logo=cypress&logoColor=white)
+- 10+ years in QA and Test Engineering
+- Experience with test automation, CI/CD workflows, and team leadership
+- Career transition into Data Science with a focus on Python, SQL, analytics, and machine learning
+- Based in Leipzig, Germany
 
 ---
 
-## Certifications
+## :telescope: What I'm Working On
 
-| Status | Certification |
-|--------|---------------|
-| ✅ | **PCEP** - Python Certified Entry-Level Programmer |
-| ✅ | **ISTQB** Certified Tester Foundation Level |
-| 🔄 | **DP-900** - Azure Data Fundamentals *(in progress)* |
-| 🔄 | **Scikit-learn** Associate Practitioner *(in progress)* |
+- Building portfolio projects that combine analysis, usability, and clean project structure
+- Strengthening my foundations in Python, SQL, statistics, and machine learning
+- Translating my QA mindset into data work: data quality, reproducibility, and practical problem solving
 
 ---
 
-## Featured Projects
+## :toolbox: Tech Stack
 
-> 🚧 *Projects will be added here as they are completed and documented.*
+Languages and analysis:
+[![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)](https://github.com/Robin-Reiche/eniac-discount-strategy)
+[![pandas](https://img.shields.io/badge/pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)](https://github.com/Robin-Reiche/eniac-discount-strategy)
+[![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)](https://github.com/Robin-Reiche/eniac-discount-strategy)
+[![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)](https://github.com/Robin-Reiche/lianes-library)
+[![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge)](https://github.com/Robin-Reiche/eniac-discount-strategy)
+[![Seaborn](https://img.shields.io/badge/Seaborn-4C72B0?style=for-the-badge)](https://github.com/Robin-Reiche/eniac-discount-strategy)
+[![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)](https://github.com/Robin-Reiche/eniac-discount-strategy)
 
-<!--
-Template for later:
-| Project | Description | Tech |
-|---------|-------------|------|
-| [⚽ Bundesliga Predictor](link) | ML model predicting Bundesliga match outcomes | Python, scikit-learn |
-| [⚡ Energy Forecaster](link) | Time series forecasting for energy consumption | Python, pandas |
--->
+Applications and engineering:
+[![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)](https://github.com/Robin-Reiche/csv-viewer-extension)
+[![VS Code API](https://img.shields.io/badge/VS_Code_API-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)](https://github.com/Robin-Reiche/csv-viewer-extension)
+[![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white)](https://github.com/Robin-Reiche/lianes-library)
+[![SQLAlchemy](https://img.shields.io/badge/SQLAlchemy-D71F00?style=for-the-badge&logo=sqlalchemy&logoColor=white)](https://github.com/Robin-Reiche/lianes-library)
+[![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)](https://github.com/Robin-Reiche/lianes-library)
+[![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)](https://github.com/Robin-Reiche)
 
----
+Data workflows and cloud:
+[![Azure Data Factory](https://img.shields.io/badge/Azure_Data_Factory-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white)](https://github.com/Robin-Reiche)
+[![Data Lake](https://img.shields.io/badge/Data_Lake-0E7490?style=for-the-badge)](https://github.com/Robin-Reiche)
+[![Synapse](https://img.shields.io/badge/Synapse-2563EB?style=for-the-badge)](https://github.com/Robin-Reiche)
+[![APIs](https://img.shields.io/badge/APIs-111827?style=for-the-badge)](https://github.com/Robin-Reiche/csv-viewer-extension)
+[![JSON](https://img.shields.io/badge/JSON-000000?style=for-the-badge&logo=json&logoColor=white)](https://github.com/Robin-Reiche/csv-viewer-extension)
 
-## My Journey: QA → Data Science
-
-```
-2008-2024: 10+ years in IT
-           ├── Test Automation (Selenium, Cypress)
-           ├── CI/CD Pipelines (Azure DevOps)
-           ├── Team Lead (10+ employees)
-           └── ~90% reduction in manual testing effort
-
-2025:      Career Transition
-           ├── WBS Coding School - Data Science & AI
-           ├── PCEP Python Certification ✅
-           └── Focus: Predictive Analytics & ML
-```
-
----
-
-<!--
-## GitHub Stats (activate later when you have more activity)
-
-![Robin's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Robin-Reiche&show_icons=true&theme=default&hide_border=true)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Robin-Reiche&layout=compact&theme=default&hide_border=true)
-
----
--->
-
-## Let's Connect
-
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/robin-reiche/)
-[![Email](https://img.shields.io/badge/-Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:robin.reiche@outlook.com)
+Current learning focus:
+- scikit-learn, clustering, feature engineering, model evaluation
 
 ---
 
-*"From testing software to training models – same mindset, new tools."*
+## :star: Featured Projects
+
+### :jigsaw: CSV Grid Viewer for VS Code
+
+A Visual Studio Code extension for viewing and editing CSV and TSV files in a sortable, filterable grid directly inside the editor.
+It focuses on usability features such as auto-fit columns, zoom, inline editing, undo/redo, and theme integration.
+
+[![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)](https://github.com/Robin-Reiche/csv-viewer-extension)
+[![VS Code API](https://img.shields.io/badge/VS_Code_API-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)](https://github.com/Robin-Reiche/csv-viewer-extension)
+[![HTML](https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white)](https://github.com/Robin-Reiche/csv-viewer-extension)
+[![CSS](https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white)](https://github.com/Robin-Reiche/csv-viewer-extension)
+
+:arrow_right: [github.com/Robin-Reiche/csv-viewer-extension](https://github.com/Robin-Reiche/csv-viewer-extension)
+
+### :bar_chart: Eniac Discount Strategy Analysis
+
+A business-focused analysis project that examines whether discounts increase revenue for a tech retailer.
+The work includes data exploration, cleaning, merging multiple sources, and comparing promotional periods with regular periods.
+
+[![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)](https://github.com/Robin-Reiche/eniac-discount-strategy)
+[![pandas](https://img.shields.io/badge/pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)](https://github.com/Robin-Reiche/eniac-discount-strategy)
+[![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge)](https://github.com/Robin-Reiche/eniac-discount-strategy)
+[![Seaborn](https://img.shields.io/badge/Seaborn-4C72B0?style=for-the-badge)](https://github.com/Robin-Reiche/eniac-discount-strategy)
+[![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)](https://github.com/Robin-Reiche/eniac-discount-strategy)
+
+:arrow_right: [github.com/Robin-Reiche/eniac-discount-strategy](https://github.com/Robin-Reiche/eniac-discount-strategy)
+
+### :books: Liane's Library Management System
+
+A full-stack library management app for tracking books, borrowers, and loan history.
+This project gave me hands-on experience with application structure, database design, and CRUD workflows.
+
+[![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)](https://github.com/Robin-Reiche/lianes-library)
+[![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white)](https://github.com/Robin-Reiche/lianes-library)
+[![SQLAlchemy](https://img.shields.io/badge/SQLAlchemy-D71F00?style=for-the-badge&logo=sqlalchemy&logoColor=white)](https://github.com/Robin-Reiche/lianes-library)
+[![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)](https://github.com/Robin-Reiche/lianes-library)
+
+:arrow_right: [github.com/Robin-Reiche/lianes-library](https://github.com/Robin-Reiche/lianes-library)
+
+---
+
+## :mortar_board: Certifications
+
+- PCEP, Python Certified Entry-Level Programmer
+- ISTQB Certified Tester Foundation Level
+- Scikit-learn Associate Practitioner, in progress
+
+---
+
+## :mailbox_with_mail: Get in Touch
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/robin-reiche/)
+[![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:robin.reiche.dev@gmail.com)
