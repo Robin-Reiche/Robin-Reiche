@@ -3,8 +3,8 @@
 I am transitioning from QA and Test Engineering into Data Science and Analytics.
 Currently I am studying Data Science & AI at [WBS Coding School](https://www.wbscodingschool.com/) and building projects that combine analysis, structure, and practical usability.
 
-- :bar_chart: Focus: data analytics, predictive analytics, and machine learning
-- :gear: Background: 10+ years in QA, test automation, and CI/CD workflows
+- :bar_chart: Focus: data analytics, predictive analytics and machine learning
+- :gear: Background: 10+ years in QA, test automation and CI/CD workflows
 - :round_pushpin: Based in Leipzig, Germany
 
 ---
@@ -12,8 +12,8 @@ Currently I am studying Data Science & AI at [WBS Coding School](https://www.wbs
 ## :telescope: What I'm Working On
 
 - Building a portfolio with projects that solve real problems and are easy to understand
-- Strengthening my skills in Python, SQL, statistics, and machine learning
-- Bringing a QA mindset into data work: clear structure, reproducibility, and data quality
+- Strengthening my skills in Python, SQL, statistics and machine learning
+- Bringing a QA mindset into data work: clear structure, reproducibility and data quality
 
 ---
 
@@ -37,7 +37,7 @@ Also working with: NumPy, matplotlib, seaborn, SQLAlchemy, APIs, JSON, Data Lake
 ### :jigsaw: CSV Grid Editor for VS Code
 
 A Visual Studio Code extension for viewing and editing CSV and TSV files in a sortable, filterable grid directly inside the editor.
-It focuses on usability features such as inline editing, undo/redo, column resizing, and theme integration.
+It focuses on usability features such as inline editing, undo/redo, column resizing and theme integration.
 
 [![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)](https://github.com/Robin-Reiche/csv-grid-editor)
 [![VS Code API](https://img.shields.io/badge/VS_Code_API-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)](https://github.com/Robin-Reiche/csv-grid-editor)
@@ -49,7 +49,7 @@ It focuses on usability features such as inline editing, undo/redo, column resiz
 ### :bar_chart: Eniac Discount Strategy Analysis
 
 A business-focused analysis project that examines whether discounts increase revenue for a tech retailer.
-The work includes data cleaning, merging multiple sources, exploratory analysis, and result communication.
+The work includes data cleaning, merging multiple sources, exploratory analysis and result communication.
 
 [![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)](https://github.com/Robin-Reiche/eniac-discount-strategy)
 [![pandas](https://img.shields.io/badge/pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)](https://github.com/Robin-Reiche/eniac-discount-strategy)
@@ -60,8 +60,8 @@ The work includes data cleaning, merging multiple sources, exploratory analysis,
 
 ### :books: Liane's Library Management System
 
-A full-stack library management app for tracking books, borrowers, and loan history.
-This project helped me build hands-on experience with CRUD workflows, database structure, and application logic.
+A full-stack library management app for tracking books, borrowers and loan history.
+This project helped me build hands-on experience with CRUD workflows, database structure and application logic.
 
 [![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)](https://github.com/Robin-Reiche/lianes-library)
 [![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white)](https://github.com/Robin-Reiche/lianes-library)
