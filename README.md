@@ -22,7 +22,7 @@ Currently I am studying Data Science & AI at [WBS Coding School](https://www.wbs
 [![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)](https://github.com/Robin-Reiche/eniac-discount-strategy)
 [![pandas](https://img.shields.io/badge/pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)](https://github.com/Robin-Reiche/eniac-discount-strategy)
 [![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)](https://github.com/Robin-Reiche/lianes-library)
-[![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white)](https://github.com/Robin-Reiche)
+[![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white)](https://github.com/Robin-Reiche/music_playlist_clustering_spotify)
 [![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)](https://github.com/Robin-Reiche/csv-grid-editor)
 [![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white)](https://github.com/Robin-Reiche/lianes-library)
 [![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)](https://github.com/Robin-Reiche/lianes-library)
@@ -57,6 +57,18 @@ The work includes data cleaning, merging multiple sources, exploratory analysis 
 [![Seaborn](https://img.shields.io/badge/Seaborn-4C72B0?style=for-the-badge)](https://github.com/Robin-Reiche/eniac-discount-strategy)
 
 :arrow_right: [github.com/Robin-Reiche/eniac-discount-strategy](https://github.com/Robin-Reiche/eniac-discount-strategy)
+
+### :headphones: Moosic Playlist Clustering
+
+A capstone project exploring whether Spotify's audio features alone can group ~5,000 songs into playlists automatically.
+We tested DBSCAN for outlier detection and K-Means for clustering, narrowed 9 features down to 4 based on correlation and skewness analysis, and evaluated the resulting 46 playlists through silhouette scores and manual inspection.
+
+[![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)](https://github.com/Robin-Reiche/music_playlist_clustering_spotify)
+[![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white)](https://github.com/Robin-Reiche/music_playlist_clustering_spotify)
+[![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge)](https://github.com/Robin-Reiche/music_playlist_clustering_spotify)
+[![Seaborn](https://img.shields.io/badge/Seaborn-4C72B0?style=for-the-badge)](https://github.com/Robin-Reiche/music_playlist_clustering_spotify)
+
+:arrow_right: [github.com/Robin-Reiche/music_playlist_clustering_spotify](https://github.com/Robin-Reiche/music_playlist_clustering_spotify)
 
 ### :books: Liane's Library Management System
 
