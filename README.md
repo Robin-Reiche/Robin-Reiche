@@ -97,9 +97,9 @@ This project helped me build hands-on experience with CRUD workflows, database s
 
 ## :mortar_board: Certifications
 
-- PCEP, Python Certified Entry-Level Programmer
-- ISTQB Certified Tester Foundation Level
-- Scikit-learn Associate Practitioner
+- PCEP, Python Certified Entry-Level Programmer (2025)
+- ISTQB Certified Tester Foundation Level (2021)
+- Scikit-learn Associate Practitioner (2026)
 
 ---
 
