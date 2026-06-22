@@ -34,6 +34,17 @@ Also working with: NumPy, matplotlib, seaborn, SQLAlchemy, APIs, JSON, Data Lake
 
 ## :star: Featured Projects
 
+### :speech_balloon: Leipzig Expert: a RAG Chatbot
+
+A Retrieval-Augmented Generation chatbot that grounds a local LLM in a Leipzig knowledge base, so every answer is built from retrieved sources instead of the model's memory. It includes a streaming FastAPI web UI, a CLI and a custom LLM-as-judge evaluation.
+
+[![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)](https://github.com/Robin-Reiche/leipzig-rag-chatbot)
+[![LlamaIndex](https://img.shields.io/badge/LlamaIndex-3B0A45?style=for-the-badge)](https://github.com/Robin-Reiche/leipzig-rag-chatbot)
+[![Ollama](https://img.shields.io/badge/Ollama-000000?style=for-the-badge&logo=ollama&logoColor=white)](https://github.com/Robin-Reiche/leipzig-rag-chatbot)
+[![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)](https://github.com/Robin-Reiche/leipzig-rag-chatbot)
+
+:arrow_right: [github.com/Robin-Reiche/leipzig-rag-chatbot](https://github.com/Robin-Reiche/leipzig-rag-chatbot)
+
 ### :jigsaw: CSV Grid Editor for VS Code
 
 A Visual Studio Code extension for viewing and editing CSV and TSV files in a sortable, filterable grid directly inside the editor.
@@ -88,7 +99,7 @@ This project helped me build hands-on experience with CRUD workflows, database s
 
 - PCEP, Python Certified Entry-Level Programmer
 - ISTQB Certified Tester Foundation Level
-- Scikit-learn Associate Practitioner, in progress
+- Scikit-learn Associate Practitioner
 
 ---
 
