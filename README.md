@@ -110,7 +110,7 @@ This project helped me build hands-on experience with CRUD workflows, database s
 </p>
 
 <p align="center">
-<img src="https://streak-stats.demolab.com/?user=Robin-Reiche&theme=default" alt="Streak Stats" />
+<img src="./profile/streak.svg" alt="Streak Stats" />
 </p>
 
 <p align="center">
