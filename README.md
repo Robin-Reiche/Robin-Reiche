@@ -106,7 +106,7 @@ This project helped me build hands-on experience with CRUD workflows, database s
 ## :chart_with_upwards_trend: GitHub Stats
 
 <p align="center">
-<img src="https://gh-readme-stats.vercel.app/api?username=Robin-Reiche&show_icons=true&theme=default" alt="GitHub Stats" />
+<img src="./profile/stats.svg" alt="GitHub Stats" />
 </p>
 
 <p align="center">
@@ -114,7 +114,7 @@ This project helped me build hands-on experience with CRUD workflows, database s
 </p>
 
 <p align="center">
-<img src="https://gh-readme-stats.vercel.app/api/top-langs/?username=Robin-Reiche&layout=compact&theme=default" alt="Top Languages" />
+<img src="./profile/top-langs.svg" alt="Top Languages" />
 </p>
 
 ---
