@@ -106,15 +106,15 @@ This project helped me build hands-on experience with CRUD workflows, database s
 ## :chart_with_upwards_trend: GitHub Stats
 
 <p align="center">
-<img src="https://github-readme-stats-sigma-five.vercel.app/api?username=Robin-Reiche&show_icons=true&theme=default" alt="GitHub Stats" />
+<img src="https://gh-readme-stats.vercel.app/api?username=Robin-Reiche&show_icons=true&theme=default" alt="GitHub Stats" />
 </p>
 
 <p align="center">
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Robin-Reiche&theme=default" alt="Streak Stats" />
+<img src="https://streak-stats.demolab.com/?user=Robin-Reiche&theme=default" alt="Streak Stats" />
 </p>
 
 <p align="center">
-<img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Robin-Reiche&layout=compact&theme=default" alt="Top Languages" />
+<img src="https://gh-readme-stats.vercel.app/api/top-langs/?username=Robin-Reiche&layout=compact&theme=default" alt="Top Languages" />
 </p>
 
 ---
