@@ -1,34 +1,42 @@
 # Hi, I'm Robin
 
-I am transitioning from QA and Test Engineering into Data Science and Analytics.
-Currently I am studying Data Science & AI at [WBS Coding School](https://www.wbscodingschool.com/) and building projects that combine analysis, structure, and practical usability.
+I build software, automations and AI solutions for small businesses and mid-sized companies. Based in Leipzig, Germany, on site in Leipzig or by video call.
 
-- :bar_chart: Focus: data analytics, predictive analytics and machine learning
-- :gear: Background: 10+ years in QA, test automation and CI/CD workflows
-- :round_pushpin: Based in Leipzig, Germany
+What matters to me is that it keeps running in everyday use, not just on the day it is handed over. That comes from twelve years in quality assurance.
 
----
-
-## :telescope: What I'm Working On
-
-- Building a portfolio with projects that solve real problems and are easy to understand
-- Strengthening my skills in Python, SQL, statistics and machine learning
-- Bringing a QA mindset into data work: clear structure, reproducibility and data quality
+- :gear: Software, process automation and AI that run reliably in everyday use
+- :test_tube: 12 years in QA and test automation, including more than 800 automated end-to-end tests
+- :mortar_board: Data Science & AI training at [WBS Coding School](https://www.wbscodingschool.com/) (2025/26)
+- :round_pushpin: Leipzig, Germany · [robin-reiche.de](https://robin-reiche.de)
 
 ---
 
-## :toolbox: Core Tech Stack
+## :hammer_and_wrench: What I Do
 
-[![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)](https://github.com/Robin-Reiche/eniac-discount-strategy)
-[![pandas](https://img.shields.io/badge/pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)](https://github.com/Robin-Reiche/eniac-discount-strategy)
-[![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)](https://github.com/Robin-Reiche/lianes-library)
-[![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white)](https://github.com/Robin-Reiche/music_playlist_clustering_spotify)
+- **Process automation:** connecting accounting, email, CRM and industry software through their APIs, with n8n or custom code
+- **AI solutions:** reading documents, sorting requests and answering questions from your own files, always with a source
+- **Software and apps:** web applications, internal tools and mobile apps, with automated tests where they make sense
+- **Consulting:** looking at your workflows together and saying honestly what is worth automating
+
+At DBS Home in Leipzig I built six n8n workflows that replace daily manual work between several programs. I also develop KeyFlow there, a SaaS for managing physical keys.
+
+More about working with me (in German): [robin-reiche.de](https://robin-reiche.de)
+
+---
+
+## :toolbox: Tech Stack
+
+[![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)](https://github.com/Robin-Reiche/leipzig-rag-chatbot)
 [![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)](https://github.com/Robin-Reiche/csv-grid-editor)
-[![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white)](https://github.com/Robin-Reiche/lianes-library)
-[![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)](https://github.com/Robin-Reiche/lianes-library)
-[![Azure Data Factory](https://img.shields.io/badge/Azure_Data_Factory-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white)](https://github.com/Robin-Reiche)
+[![n8n](https://img.shields.io/badge/n8n-EA4B71?style=for-the-badge&logo=n8n&logoColor=white)](https://robin-reiche.de)
+[![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)](https://whisperwalk.app)
+[![Cypress](https://img.shields.io/badge/Cypress-17202C?style=for-the-badge&logo=cypress&logoColor=white)](https://github.com/Robin-Reiche)
+[![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)](https://github.com/Robin-Reiche/leipzig-rag-chatbot)
+[![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)](https://github.com/Robin-Reiche/lianes-library)
+[![pandas](https://img.shields.io/badge/pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)](https://github.com/Robin-Reiche/eniac-discount-strategy)
+[![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white)](https://github.com/Robin-Reiche/music_playlist_clustering_spotify)
 
-Also working with: NumPy, matplotlib, seaborn, SQLAlchemy, APIs, JSON, Data Lake, Synapse
+Also working with: REST APIs, JSON, LlamaIndex, Ollama, Streamlit, SQLAlchemy, NumPy, matplotlib and seaborn
 
 ---
 
@@ -47,58 +55,44 @@ A Retrieval-Augmented Generation chatbot that grounds a local LLM in a Leipzig k
 
 ### :jigsaw: CSV Grid Editor for VS Code
 
-A Visual Studio Code extension for viewing and editing CSV and TSV files in a sortable, filterable grid directly inside the editor.
-It focuses on usability features such as inline editing, undo/redo, column resizing and theme integration.
+A Visual Studio Code extension for viewing and editing CSV and TSV files in a sortable, filterable grid directly inside the editor. It focuses on usability features such as inline editing, undo and redo, column resizing and theme integration.
 
 [![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)](https://github.com/Robin-Reiche/csv-grid-editor)
 [![VS Code API](https://img.shields.io/badge/VS_Code_API-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)](https://github.com/Robin-Reiche/csv-grid-editor)
-[![HTML](https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white)](https://github.com/Robin-Reiche/csv-grid-editor)
-[![CSS](https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white)](https://github.com/Robin-Reiche/csv-grid-editor)
 
 :arrow_right: [github.com/Robin-Reiche/csv-grid-editor](https://github.com/Robin-Reiche/csv-grid-editor)
 
-### :bar_chart: Eniac Discount Strategy Analysis
+### :speaker: Markdown Read Aloud for VS Code
 
-A business-focused analysis project that examines whether discounts increase revenue for a tech retailer.
-The work includes data cleaning, merging multiple sources, exploratory analysis and result communication.
+A Visual Studio Code extension that reads Markdown files aloud with free neural text-to-speech. No API key needed, 75 languages.
 
-[![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)](https://github.com/Robin-Reiche/eniac-discount-strategy)
-[![pandas](https://img.shields.io/badge/pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)](https://github.com/Robin-Reiche/eniac-discount-strategy)
-[![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge)](https://github.com/Robin-Reiche/eniac-discount-strategy)
-[![Seaborn](https://img.shields.io/badge/Seaborn-4C72B0?style=for-the-badge)](https://github.com/Robin-Reiche/eniac-discount-strategy)
+[![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)](https://github.com/Robin-Reiche/markdown-read-aloud)
+[![VS Code API](https://img.shields.io/badge/VS_Code_API-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)](https://github.com/Robin-Reiche/markdown-read-aloud)
 
-:arrow_right: [github.com/Robin-Reiche/eniac-discount-strategy](https://github.com/Robin-Reiche/eniac-discount-strategy)
+:arrow_right: [github.com/Robin-Reiche/markdown-read-aloud](https://github.com/Robin-Reiche/markdown-read-aloud)
 
-### :headphones: Moosic Playlist Clustering
+### :walking: Whisper Walk
 
-A capstone project exploring whether Spotify's audio features alone can group ~5,000 songs into playlists automatically.
-We tested DBSCAN for outlier detection and K-Means for clustering, narrowed 9 features down to 4 based on correlation and skewness analysis, and evaluated the resulting 46 playlists through silhouette scores and manual inspection.
+A mobile app that tells you the stories of the places around you while you walk, in 28 languages.
 
-[![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)](https://github.com/Robin-Reiche/music_playlist_clustering_spotify)
-[![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white)](https://github.com/Robin-Reiche/music_playlist_clustering_spotify)
-[![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge)](https://github.com/Robin-Reiche/music_playlist_clustering_spotify)
-[![Seaborn](https://img.shields.io/badge/Seaborn-4C72B0?style=for-the-badge)](https://github.com/Robin-Reiche/music_playlist_clustering_spotify)
+[![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)](https://whisperwalk.app)
 
-:arrow_right: [github.com/Robin-Reiche/music_playlist_clustering_spotify](https://github.com/Robin-Reiche/music_playlist_clustering_spotify)
+:arrow_right: [whisperwalk.app](https://whisperwalk.app)
 
-### :books: Liane's Library Management System
+---
 
-A full-stack library management app for tracking books, borrowers and loan history.
-This project helped me build hands-on experience with CRUD workflows, database structure and application logic.
+## :bar_chart: Data Science Projects from My WBS Training
 
-[![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)](https://github.com/Robin-Reiche/lianes-library)
-[![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white)](https://github.com/Robin-Reiche/lianes-library)
-[![SQLAlchemy](https://img.shields.io/badge/SQLAlchemy-D71F00?style=for-the-badge&logo=sqlalchemy&logoColor=white)](https://github.com/Robin-Reiche/lianes-library)
-[![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)](https://github.com/Robin-Reiche/lianes-library)
-
-:arrow_right: [github.com/Robin-Reiche/lianes-library](https://github.com/Robin-Reiche/lianes-library)
+- **[Eniac Discount Strategy](https://github.com/Robin-Reiche/eniac-discount-strategy):** do discounts increase revenue for a tech retailer? Data cleaning, merging several sources, exploratory analysis and communicating the result.
+- **[Moosic Playlist Clustering](https://github.com/Robin-Reiche/music_playlist_clustering_spotify):** can Spotify's audio features alone group about 5,000 songs into playlists? DBSCAN for outliers, K-Means for clustering, 46 playlists evaluated with silhouette scores and manual inspection.
+- **[Liane's Library](https://github.com/Robin-Reiche/lianes-library):** a full-stack library management app for books, borrowers and loans with Python, Streamlit and MySQL.
 
 ---
 
 ## :mortar_board: Certifications
 
-- PCEP, Python Certified Entry-Level Programmer (2025)
 - ISTQB Certified Tester Foundation Level (2021)
+- PCEP, Python Certified Entry-Level Programmer (2025)
 - Scikit-learn Associate Practitioner (2026)
 
 ---
@@ -121,5 +115,6 @@ This project helped me build hands-on experience with CRUD workflows, database s
 
 ## :mailbox_with_mail: Get in Touch
 
+[![Website](https://img.shields.io/badge/robin--reiche.de-1F2937?style=for-the-badge&logo=googlechrome&logoColor=white)](https://robin-reiche.de)
+[![Email](https://img.shields.io/badge/kontakt@robin--reiche.de-EA4335?style=for-the-badge&logo=maildotru&logoColor=white)](mailto:kontakt@robin-reiche.de)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/robin-reiche/)
-[![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:robin.reiche.dev@gmail.com)
